@@ -1,0 +1,45 @@
+# Integer1. Length L is given in centimeters. Create a program that determines the number of complete meters in it.
+# (1m=100cm)
+# Integer2. Weight M is given in kilograms. Create a program that determines the number of tons in it.
+# (1t=1000kg)
+# Integer3. The size of the file is given in bytes. A file using the subtraction operation
+# Create a program that expresses the size in kilobytes. (1Kb=1024 bytes)
+# Integer4. A and B (A > B) are given positive integers. How many times to place the cross-section A in the cross-section B
+# create a program that determines the possibility.
+# Integer5. A and B (A > B) are given positive numbers. How many times to place section B in section A
+# possible Create a program that determines the part of section B that is not located in section A.
+# Integer6. A two-digit number is given. First, the number in the tens room, and the number in the ones room
+# create a program that generates a number.
+# Integer7. A two-digit number is given. Create a program that determines the sum of its numbers.
+# Integer8. A two-digit number is given. Its digits are the determinant of a number formed by permuting o
+# create a program.
+# Integer9. A three-digit number is given. Create a program to reveal his number in the face room.
+# Integer10. A three-digit number is given. First, count the number in the units room in the tens room
+# create a program that generates a number.
+# Integer11. A three-digit number is given. Create a program that determines the sum of its numbers.
+# Integer12. A three-digit number is given. The number formed by writing its digits in reverse order
+# create a deterministic program.
+# Integer13. A three-digit number is given. By erasing the first number from the left and writing it to the right
+# Create a program that determines the resulting number.
+# Integer14. A three-digit number is given. By erasing the first number from the right and writing it on the left side
+# Create a program that determines the resulting number.
+# Integer15. A three-digit number is given. The number in his tens room and the number in his hundreds room
+# create a program that determines the number resulting from substitution. (Input = 123; Output = 213)
+# Integer16. A three-digit number is given. The number in his tens room and the number in his units room
+# create a program that determines the number resulting from substitution. (Input = 123; Output = 132)
+# Integer17. A number greater than 999 is given. Take the whole once and divide the remainder
+# Create a program that determines the number in the hundreds room using the operation.
+# Integer18. A number greater than 999 is given. Take the whole once and divide the remainder
+# Create a program that determines the number in the thousands room using the operation.
+# Integer19. It took N seconds from the start of the day. How many minutes from the beginning of the day
+# create a program that determines whether it has passed.
+# Integer20. It took N seconds from the start of the day. How many full hours from the beginning of the day
+# create a program that determines whether it has passed.
+# Integer21. N seconds have passed since the beginning of the day. How many minutes and seconds since the beginning of the day
+# create a program that detects the past.
+# Integer22. N seconds have passed since the beginning of the day. How many hours and seconds since the beginning of the day
+# create a program that detects the past.
+# Integer23. N seconds have passed since the beginning of the day. How many hours, minutes and
+# Create a program that detects the elapsed seconds.
+
+
